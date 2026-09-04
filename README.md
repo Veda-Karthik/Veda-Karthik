@@ -1,156 +1,148 @@
-#<div align="center">
+<div align="center">
 
-# ⚡ VEDA KARTHIK
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:2B1055,100:5B21B6&height=190&section=header&text=VEDA%20KARTHIK&fontSize=44&fontColor=22D3EE&fontAlignY=35&desc=I%20build%20hardware%20for%20signals&descAlignY=55&descSize=17&descColor=F0ABFC" width="100%"/>
 
-### `RTL DESIGN` · `COMPUTER ARCHITECTURE` · `DIGITAL SYSTEMS`
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=3000&pause=1400&color=22D3EE&center=true&vCenter=true&width=640&lines=Electronics+Engineering+%40+IIT+(BHU)+Varanasi;RTL+for+OFDM%2C+IFFT%2C+and+6G+ISAC+hardware;From+baseband+math+to+bits+on+an+FPGA" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/IIT(BHU)-ECE-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL-VERILOG-00B8D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RISC--V-HARDWARE-FFB300?style=for-the-badge"/>
+<br/>
 
-<br><br>
-
-**I build digital systems from architecture → RTL → implementation.**
+<img src="https://img.shields.io/badge/STATUS-ON_AIR-34D399?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/BASE-IIT_(BHU)_VARANASI-3B82F6?style=for-the-badge&labelColor=0B1026" />
+<img src="https://img.shields.io/badge/DOMAIN-DSP_%2F_6G_HARDWARE-A855F7?style=for-the-badge&labelColor=0B1026" />
 
 </div>
 
----
+<p align="center">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</p>
 
-## 🧠 `MINDSET`
+### Everything here is a signal, somewhere.
 
-> **Understand the architecture.  
-> Design the datapath.  
-> Write the RTL.  
-> Verify it.  
-> Make it real.**
+I'm an Electronics Engineering student at **IIT (BHU) Varanasi**, working on the hardware that turns waveforms into bits and back — RTL implementation for a 6G joint-sensing-and-communication testbed, alongside a RISC-V processor built from the ground up. I like the layer where math (FFTs, fixed-point, constellations) becomes a physical circuit.
 
-I'm an Electronics Engineering student at **IIT(BHU)** interested
-in the intersection of computer architecture, RTL design and
-digital hardware.
+<p align="center">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</p>
 
----
+## 📡 Signal Chain
 
-## ⚙️ `WHAT I BUILD`
+<p align="center">
+<img src="https://img.shields.io/badge/DIGITAL_LOGIC-22D3EE?style=flat-square&labelColor=0B1026"/> ➜
+<img src="https://img.shields.io/badge/VERILOG-22D3EE?style=flat-square&labelColor=0B1026"/> ➜
+<img src="https://img.shields.io/badge/RTL_DESIGN-3B82F6?style=flat-square&labelColor=0B1026"/> ➜
+<img src="https://img.shields.io/badge/FPGA-3B82F6?style=flat-square&labelColor=0B1026"/> ➜
+<img src="https://img.shields.io/badge/COMPUTER_ARCHITECTURE-3B82F6?style=flat-square&labelColor=0B1026"/> ➜
+<img src="https://img.shields.io/badge/RISC--V-A855F7?style=flat-square&labelColor=0B1026"/> ➜
+<img src="https://img.shields.io/badge/DSP_%2F_OFDM-A855F7?style=flat-square&labelColor=0B1026"/> ➜
+<img src="https://img.shields.io/badge/ADVANCED_HARDWARE-EC4899?style=flat-square&labelColor=0B1026"/>
+</p>
 
-<table>
-<tr>
+<p align="center">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</p>
 
-<td width="50%">
+## 🎛 On Air
 
-### 🖥️ PROCESSORS
+```
+┌────────────────────────────────────────────────────────────┐
+│  TRANSMITTING                                                │
+├────────────────────────────────────────────────────────────┤
+│  📡  6G ISAC Testbed — RTL implementation        [ACTIVE]     │
+│  🌀  OFDM / IFFT hardware blocks                  [ACTIVE]    │
+│  ⚙   Pipelined RISC-V Processor                  [BUILDING]  │
+└────────────────────────────────────────────────────────────┘
+```
 
-**RISC-V · Microarchitecture**
+<p align="center">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</p>
 
-Designing processors and exploring:
+## 🔬 Projects
 
-`Pipelining`  
-`Forwarding`  
-`Hazards`  
-`Branching`  
-`Memory Systems`
+### 🛰 6G Joint Sensing & Communication Testbed
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-34D399?style=flat-square&labelColor=0B1026" />
 
-</td>
+*"Advancing 6G: Development of Test-Beds for Joint Sensing and Communication Systems."*
 
-<td width="50%">
+My role is RTL implementation — taking algorithms from the project team and turning them into working Verilog on FPGA.
 
-### 📡 DSP HARDWARE
+**Architecture**
+- FPGA-based RTL for an OFDM baseband transmitter
+- Current stage: subcarrier mapping, Q1.15 fixed-point, verified in Icarus Verilog
+- Sits at the intersection of communication systems and sensing hardware
 
-**Signal Processing · FPGA**
+`Verilog` `FPGA` `OFDM` `6G` `RTL`
 
-Turning algorithms into hardware:
-
-`Fixed Point`  
-`FFT / IFFT`  
-`OFDM`  
-`Pipelining`  
-`Resource Optimization`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🚀 `FEATURED WORK`
-
-### 🟣 01 · RISC-V PROCESSOR
-
-**5-Stage Pipelined Processor**
-
-`RV32I` `Verilog` `Computer Architecture`
-
-> A processor built from the ground up, exploring
-> datapaths, control, hazards and pipeline execution.
-
-**→ Architecture · RTL · Verification**
+**Repository:** `[PROJECT_REPOSITORY_LINK]`
 
 ---
 
-### 🔵 02 · OFDM HARDWARE
+### 🌀 FPGA OFDM / IFFT Hardware
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-F59E0B?style=flat-square&labelColor=0B1026" />
 
-**FPGA-Oriented OFDM Processing**
+RTL for the OFDM signal chain — the hardware side of turning symbols into a transmittable waveform.
 
-`Verilog` `DSP` `Fixed Point` `FPGA`
+**Architecture**
+- IFFT-based OFDM symbol generation (bit reversal, butterfly stages)
+- Subcarrier mapping and BPSK constellation handling
+- Fixed-point arithmetic in Q1.15 for FPGA-friendly datapaths
 
-> Hardware implementation of signal-processing
-> algorithms with a focus on fixed-point RTL.
+`Verilog` `FPGA` `OFDM` `Fixed-Point`
 
-**→ DSP · RTL · FPGA**
-
----
-
-### 🟢 03 · HARDWARE ACCELERATOR
-
-**Algorithm → Datapath → RTL**
-
-`Verilog` `Pipelining` `MAC` `Hardware Architecture`
-
-> Designing specialized hardware to accelerate
-> computation-heavy workloads.
-
-**→ Architecture · Optimization · RTL**
+**Repository:** `[PROJECT_REPOSITORY_LINK]`
 
 ---
 
-## 🛠️ `TECHNICAL BLUEPRINT`
+### ⚡ Pipelined RISC-V Processor
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-F59E0B?style=flat-square&labelColor=0B1026" />
 
-### 💻 Languages
+Building a RISC-V core up from a single-cycle datapath toward a full 5-stage pipeline, in Verilog.
 
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=verilog)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+**Architecture**
+- RV32I datapath and control unit, built stage by stage
+- Register file and instruction/data memory modeled in RTL
+- Working through pipeline hazards — forwarding, stalling, branch resolution
 
-### 🔧 Hardware
+`Verilog` `RISC-V` `RTL` `Computer Architecture`
 
-![RTL](https://img.shields.io/badge/RTL_Design-FF6F00?style=flat-square)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA-00A86B?style=flat-square)
-![ASIC](https://img.shields.io/badge/ASIC-8E44AD?style=flat-square)
+**Repository:** `[PROJECT_REPOSITORY_LINK]`
 
-### 🧰 Tools
+<p align="center">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</p>
 
-`Vivado` · `Quartus` · `GTKWave` · `Cadence`
+## 🧠 Tech Stack
 
----
+**DSP / Communication**
+<br/>
+<img src="https://img.shields.io/badge/OFDM-A855F7?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/IFFT-A855F7?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/BPSK-A855F7?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/QAM-A855F7?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/Fixed--Point_Arithmetic-A855F7?style=flat-square&labelColor=0B1026"/>
 
-## 🧪 `CURRENTLY EXPLORING`
+**Hardware**
+<br/>
+<img src="https://img.shields.io/badge/Verilog-22D3EE?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/RTL_Design-22D3EE?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/FPGA-22D3EE?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/Digital_Logic_Design-22D3EE?style=flat-square&labelColor=0B1026"/>
 
-```text
-                    ┌───────────────────┐
-                    │ COMPUTER          │
-                    │ ARCHITECTURE      │
-                    └─────────┬─────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │ MICROARCHITECTURE │
-                    └─────────┬─────────┘
-                              │
-                    ┌─────────▼─────────┐
-                    │       RTL         │
-                    └─────────┬─────────┘
-                              │
-               ┌──────────────┴──────────────┐
-               ▼                             ▼
-           FPGA DESIGN                  ASIC FLOW
+**Architecture**
+<br/>
+<img src="https://img.shields.io/badge/RISC--V-3B82F6?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/CPU_Design-3B82F6?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/Pipelining-3B82F6?style=flat-square&labelColor=0B1026"/>
+
+**Programming**
+<br/>
+<img src="https://img.shields.io/badge/C-64748B?style=flat-square&labelColor=0B1026"/>
+<img src="https://img.shields.io/badge/MATLAB-64748B?style=flat-square&labelColor=0B1026"/>
+
+<p align="center">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</p>
+
+## 📈 Waveform (Activity)
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GITHUB_USERNAME]&theme=react-dark&hide_border=true&bg_color=0B1026&color=22D3EE&line=A855F7&point=EC4899&area=true" width="100%"/>
+</p>
+
+<p align="center">∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿</p>
+
+<p align="center"><i>"Life is about constant exploring and improving."</i></p>
+
+<p align="center">
+<a href="[LINKEDIN]">LinkedIn</a> ·
+<a href="mailto:[EMAIL]">Email</a> ·
+<a href="[PORTFOLIO_OR_OTHER_LINK]">Portfolio</a>
+</p>
