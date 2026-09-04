@@ -1,103 +1,156 @@
-# Hi, I'm VEDA KARTHIK👋
+#<div align="center">
 
-### RTL Design • Computer Architecture • Digital Systems
+# ⚡ VEDA KARTHIK
 
-ECE @ IIT(BHU) · India
+### `RTL DESIGN` · `COMPUTER ARCHITECTURE` · `DIGITAL SYSTEMS`
 
-I enjoy understanding how digital systems work at the hardware level
-and turning architectural ideas into synthesizable RTL.
+<img src="https://img.shields.io/badge/IIT(BHU)-ECE-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RTL-VERILOG-00B8D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RISC--V-HARDWARE-FFB300?style=for-the-badge"/>
 
----
+<br><br>
 
-## 🧠 About Me
+**I build digital systems from architecture → RTL → implementation.**
 
-I'm an Electronics Engineering student interested in building
-digital systems from the ground up — from architecture and
-microarchitecture to RTL, verification and hardware implementation.
-
-My current interests revolve around:
-
-- RTL Design
-- Computer Architecture
-- RISC-V Processors
-- FPGA Design
-- DSP / Signal Processing Hardware
-- ASIC Design & Physical Implementation
+</div>
 
 ---
 
-## 🔨 Currently Building
+## 🧠 `MINDSET`
 
-### 🖥️ Pipelined RISC-V Processor
+> **Understand the architecture.  
+> Design the datapath.  
+> Write the RTL.  
+> Verify it.  
+> Make it real.**
 
-Designing a 5-stage RISC-V processor while exploring:
-
-`Pipeline → Hazards → Forwarding → Stalls → Branches → Verification`
-
-### 📡 DSP / OFDM Hardware
-
-Exploring hardware implementations of DSP algorithms,
-with a focus on fixed-point arithmetic and FPGA-oriented RTL.
-
----
-
-## 🚀 Featured Projects
-
-### 🖥️ RISC-V Processor
-> 5-stage pipelined processor implemented in Verilog
-
-**Focus:**  
-`Computer Architecture` · `Pipeline Design` · `Hazard Handling` · `RTL`
+I'm an Electronics Engineering student at **IIT(BHU)** interested
+in the intersection of computer architecture, RTL design and
+digital hardware.
 
 ---
 
-### 📡 OFDM RTL
-> Hardware-oriented implementation of an OFDM processing chain
+## ⚙️ `WHAT I BUILD`
 
-**Focus:**  
-`DSP` · `Fixed Point` · `FFT/IFFT` · `FPGA` · `Verilog`
+<table>
+<tr>
+
+<td width="50%">
+
+### 🖥️ PROCESSORS
+
+**RISC-V · Microarchitecture**
+
+Designing processors and exploring:
+
+`Pipelining`  
+`Forwarding`  
+`Hazards`  
+`Branching`  
+`Memory Systems`
+
+</td>
+
+<td width="50%">
+
+### 📡 DSP HARDWARE
+
+**Signal Processing · FPGA**
+
+Turning algorithms into hardware:
+
+`Fixed Point`  
+`FFT / IFFT`  
+`OFDM`  
+`Pipelining`  
+`Resource Optimization`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### ⚡ Hardware Accelerator
-> RTL implementation of a compute-intensive algorithm
+## 🚀 `FEATURED WORK`
 
-**Focus:**  
-`Datapath Design` · `Pipelining` · `Resource Sharing` · `Verification`
+### 🟣 01 · RISC-V PROCESSOR
+
+**5-Stage Pipelined Processor**
+
+`RV32I` `Verilog` `Computer Architecture`
+
+> A processor built from the ground up, exploring
+> datapaths, control, hazards and pipeline execution.
+
+**→ Architecture · RTL · Verification**
 
 ---
 
-## 🛠️ Technical Toolbox
+### 🔵 02 · OFDM HARDWARE
 
-### Hardware
+**FPGA-Oriented OFDM Processing**
 
-`Verilog` · `SystemVerilog` · `RTL Design` · `Digital Logic`
+`Verilog` `DSP` `Fixed Point` `FPGA`
 
-### Architecture
+> Hardware implementation of signal-processing
+> algorithms with a focus on fixed-point RTL.
 
-`RISC-V` · `Computer Architecture` · `Processor Design`
+**→ DSP · RTL · FPGA**
 
-### Programming
+---
 
-`C` · `C++` · `Python`
+### 🟢 03 · HARDWARE ACCELERATOR
 
-### Tools
+**Algorithm → Datapath → RTL**
+
+`Verilog` `Pipelining` `MAC` `Hardware Architecture`
+
+> Designing specialized hardware to accelerate
+> computation-heavy workloads.
+
+**→ Architecture · Optimization · RTL**
+
+---
+
+## 🛠️ `TECHNICAL BLUEPRINT`
+
+### 💻 Languages
+
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=verilog)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+
+### 🔧 Hardware
+
+![RTL](https://img.shields.io/badge/RTL_Design-FF6F00?style=flat-square)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-00A86B?style=flat-square)
+![ASIC](https://img.shields.io/badge/ASIC-8E44AD?style=flat-square)
+
+### 🧰 Tools
 
 `Vivado` · `Quartus` · `GTKWave` · `Cadence`
 
 ---
 
-## ⚙️ Things I Like Working On
+## 🧪 `CURRENTLY EXPLORING`
 
 ```text
-Architecture
-     ↓
-Microarchitecture
-     ↓
-RTL
-     ↓
-Simulation & Verification
-     ↓
-Synthesis
-     ↓
-FPGA / ASIC
+                    ┌───────────────────┐
+                    │ COMPUTER          │
+                    │ ARCHITECTURE      │
+                    └─────────┬─────────┘
+                              │
+                    ┌─────────▼─────────┐
+                    │ MICROARCHITECTURE │
+                    └─────────┬─────────┘
+                              │
+                    ┌─────────▼─────────┐
+                    │       RTL         │
+                    └─────────┬─────────┘
+                              │
+               ┌──────────────┴──────────────┐
+               ▼                             ▼
+           FPGA DESIGN                  ASIC FLOW
