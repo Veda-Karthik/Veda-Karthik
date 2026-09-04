@@ -39,12 +39,12 @@ I'm an Electronics Engineering student at **IIT (BHU) Varanasi**, working from t
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  ACTIVE BUILDS                                               │
+│  ACTIVE BUILDS                                             │
 ├────────────────────────────────────────────────────────────┤
-│  ⚡  Pipelined RISC-V Processor                [Verilog]      │
-│  📡  6G ISAC — OFDM RTL, subcarrier mapping     [FPGA]        │
-│  🧠  Computer Architecture self-study (RISC-V, Patterson &   │
-│      Hennessy)                                                │
+│  ⚡  Pipelined RISC-V Processor               [Verilog]    │
+│  📡  6G ISAC — OFDM RTL, subcarrier mapping     [FPGA]     │
+│  🧠  Computer Architecture self-study (RISC-V, Patterson & │
+│      Hennessy)                                             │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -136,7 +136,7 @@ My role is RTL implementation — taking algorithms from the project team and tu
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&icon_color=8B5CF6&text_color=E6F1FF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&text_color=E6F1FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Veda-Karthik]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E17&title_color=00E5FF&text_color=E6F1FF"/>
 </p>
 
 <p align="center">◆⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯◆</p>
